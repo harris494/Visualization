@@ -1,0 +1,407 @@
+Car,MPG
+Chevrolet Chevelle Malibu,18
+Buick Skylark 320,15
+Plymouth Satellite,18
+AMC Rebel SST,16
+Ford Torino,17
+Ford Galaxie 500,15
+Chevrolet Impala,14
+Plymouth Fury iii,14
+Pontiac Catalina,14
+AMC Ambassador DPL,15
+Citroen DS-21 Pallas,0
+Chevrolet Chevelle Concours (sw),0
+Ford Torino (sw),0
+Plymouth Satellite (sw),0
+AMC Rebel SST (sw),0
+Dodge Challenger SE,15
+Plymouth 'Cuda 340,14
+Ford Mustang Boss 302,0
+Chevrolet Monte Carlo,15
+Buick Estate Wagon (sw),14
+Toyota Corolla Mark ii,24
+Plymouth Duster,22
+AMC Hornet,18
+Ford Maverick,21
+Datsun PL510,27
+Volkswagen 1131 Deluxe Sedan,26
+Peugeot 504,25
+Audi 100 LS,24
+Saab 99e,25
+BMW 2002,26
+AMC Gremlin,21
+Ford F250,10
+Chevy C20,10
+Dodge D200,11
+Hi 1200D,9
+Datsun PL510,27
+Chevrolet Vega 2300,28
+Toyota Corolla,25
+Ford Pinto,25
+Volkswagen Super Beetle 117,0
+AMC Gremlin,19
+Plymouth Satellite Custom,16
+Chevrolet Chevelle Malibu,17
+Ford Torino 500,19
+AMC Matador,18
+Chevrolet Impala,14
+Pontiac Catalina Brougham,14
+Ford Galaxie 500,14
+Plymouth Fury iii,14
+Dodge Monaco (sw),12
+Ford Country Squire (sw),13
+Pontiac Safari (sw),13
+AMC Hornet Sportabout (sw),18
+Chevrolet Vega (sw),22
+Pontiac Firebird,19
+Ford Mustang,18
+Mercury Capri 2000,23
+Opel 1900,28
+Peugeot 304,30
+Fiat 124B,30
+Toyota Corolla 1200,31
+Datsun 1200,35
+Volkswagen Model 111,27
+Plymouth Cricket,26
+Toyota Corolla Hardtop,24
+Dodge Colt Hardtop,25
+Volkswagen Type 3,23
+Chevrolet Vega,20
+Ford Pinto Runabout,21
+Chevrolet Impala,13
+Pontiac Catalina,14
+Plymouth Fury III,15
+Ford Galaxie 500,14
+AMC Ambassador SST,17
+Mercury Marquis,11
+Buick LeSabre Custom,13
+Oldsmobile Delta 88 Royale,12
+Chrysler Newport Royal,13
+Mazda RX2 Coupe,19
+AMC Matador (sw),15
+Chevrolet Chevelle Concours (sw),13
+Ford Gran Torino (sw),13
+Plymouth Satellite Custom (sw),14
+Volvo 145e (sw),18
+Volkswagen 411 (sw),22
+Peugeot 504 (sw),21
+Renault 12 (sw),26
+Ford Pinto (sw),22
+Datsun 510 (sw),28
+Toyota Corolla Mark II (sw),23
+Dodge Colt (sw),28
+Toyota Corolla 1600 (sw),27
+Buick Century 350,13
+AMC Matador,14
+Chevrolet Malibu,13
+Ford Gran Torino,14
+Dodge Coronet Custom,15
+Mercury Marquis Brougham,12
+Chevrolet Caprice Classic,13
+Ford LTD,13
+Plymouth Fury Gran Sedan,14
+Chrysler New Yorker Brougham,13
+Buick Electra 225 Custom,12
+AMC Ambassador Brougham,13
+Plymouth Valiant,18
+Chevrolet Nova Custom,16
+AMC Hornet,18
+Ford Maverick,18
+Plymouth Duster,23
+Volkswagen Super Beetle,26
+Chevrolet Impala,11
+Ford Country,12
+Plymouth Custom Suburb,13
+Oldsmobile Vista Cruiser,12
+AMC Gremlin,18
+Toyota Camry,20
+Chevrolet Vega,21
+Datsun 610,22
+Mazda RX3,18
+Ford Pinto,19
+Mercury Capri v6,21
+Fiat 124 Sport Coupe,26
+Chevrolet Monte Carlo S,15
+Pontiac Grand Prix,16
+Fiat 128,29
+Opel Manta,24
+Audi 100LS,20
+Volvo 144ea,19
+Dodge Dart Custom,15
+Saab 99le,24
+Toyota Mark II,20
+Oldsmobile Omega,11
+Plymouth Duster,20
+Ford Maverick,21
+AMC Hornet,19
+Chevrolet Nova,15
+Datsun B210,31
+Ford Pinto,26
+Toyota Corolla 1200,32
+Chevrolet Vega,25
+Chevrolet Chevelle Malibu Classic,16
+AMC Matador,16
+Plymouth Satellite Sebring,18
+Ford Gran Torino,16
+Buick Century Luxus (sw),13
+Dodge Coronet Custom (sw),14
+Ford Gran Torino (sw),14
+AMC Matador (sw),14
+Audi Fox,29
+Volkswagen Dasher,26
+Opel Manta,26
+Toyota Corolla,31
+Datsun 710,32
+Dodge Colt,28
+Fiat 128,24
+Fiat 124 TC,26
+Honda Civic,24
+Subaru,26
+Fiat x1.9,31
+Plymouth Valiant Custom,19
+Chevrolet Nova,18
+Mercury Monarch,15
+Ford Maverick,15
+Pontiac Catalina,16
+Chevrolet Bel Air,15
+Plymouth Grand Fury,16
+Ford LTD,14
+Buick Century,17
+Chevrolete Chevelle Malibu,16
+AMC Matador,15
+Plymouth Fury,18
+Buick Skyhawk,21
+Chevrolet Monza 2+2,20
+Ford Mustang II,13
+Toyota Corolla,29
+Ford Pinto,23
+AMC Gremlin,20
+Pontiac Astro,23
+Toyota Corolla,24
+Volkswagen Dasher,25
+Datsun 710,24
+Ford Pinto,18
+Volkswagen Rabbit,29
+AMC Pacer,19
+Audi 100LS,23
+Peugeot 504,23
+Volvo 244DL,22
+Saab 99LE,25
+Honda Civic CVCC,33
+Fiat 131,28
+Opel 1900,25
+Capri ii,25
+Dodge Colt,26
+Renault 12tl,27
+Chevrolet Chevelle Malibu Classic,17.5
+Dodge Coronet Brougham,16
+AMC Matador,15.5
+Ford Gran Torino,14.5
+Plymouth Valiant,22
+Chevrolet Nova,22
+Ford Maverick,24
+AMC Hornet,22.5
+Chevrolet Chevette,29
+Chevrolet Woody,24.5
+Volkswagen Rabbit,29
+Honda Civic,33
+Dodge Aspen SE,20
+Ford Grenada ghia,18
+Pontiac Ventura SJ,18.5
+AMC Pacer d/l,17.5
+Volkswagen Rabbit,29.5
+Datsun B-210,32
+Toyota Corolla,28
+Ford Pinto,26.5
+Volvo 245,20
+Plymouth Volare Premier v8,13
+Peugeot 504,19
+Toyota Mark II,19
+Mercedes-Benz 280s,16.5
+Cadillac Seville,16.5
+Chevrolet C10,13
+Ford F108,13
+Dodge D100,13
+Honda Accord CVCC,31.5
+Buick Opel Isuzu Deluxe,30
+Renault 5 GTL,36
+Plymouth Arrow GS,25.5
+Datsun F-10 Hatchback,33.5
+Chevrolet Caprice Classic,17.5
+Oldsmobile Cutlass Supreme,17
+Dodge Monaco Brougham,15.5
+Mercury Cougar Brougham,15
+Chevrolet Concours,17.5
+Buick Skylark,20.5
+Plymouth Volare Custom,19
+Ford Grenada,18.5
+Pontiac Grand Prix LJ,16
+Chevrolet Monte Carlo Landau,15.5
+Chrysler Cordoba,15.5
+Ford Thunderbird,16
+Volkswagen Rabbit Custom,29
+Pontiac Sunbird Coupe,24.5
+Toyota Corolla Liftback,26
+Ford Mustang II 2+2,25.5
+Chevrolet Chevette,30.5
+Dodge Colt m/m,33.5
+Subaru DL,30
+Volkswagen Dasher,30.5
+Datsun 810,22
+BMW 320i,21.5
+Mazda RX-4,21.5
+Volkswagen Rabbit Custom Diesel,43.1
+Ford Fiesta,36.1
+Mazda GLC Deluxe,32.8
+Datsun B210 GX,39.4
+Honda Civic CVCC,36.1
+Oldsmobile Cutlass Salon Brougham,19.9
+Dodge Diplomat,19.4
+Mercury Monarch ghia,20.2
+Pontiac Phoenix LJ,19.2
+Chevrolet Malibu,20.5
+Ford Fairmont (auto),20.2
+Ford Fairmont (man),25.1
+Plymouth Volare,20.5
+AMC Concord,19.4
+Buick Century Special,20.6
+Mercury Zephyr,20.8
+Dodge Aspen,18.6
+AMC Concord d/l,18.1
+Chevrolet Monte Carlo Landau,19.2
+Buick Regal Sport Coupe (turbo),17.7
+Ford Futura,18.1
+Dodge Magnum XE,17.5
+Chevrolet Chevette,30
+Toyota Corolla,27.5
+Datsun 510,27.2
+Dodge Omni,30.9
+Toyota Celica GT Liftback,21.1
+Plymouth Sapporo,23.2
+Oldsmobile Starfire SX,23.8
+Datsun 200-SX,23.9
+Audi 5000,20.3
+Volvo 264gl,17
+Saab 99gle,21.6
+Peugeot 604sl,16.2
+Volkswagen Scirocco,31.5
+Honda Accord LX,29.5
+Pontiac Lemans V6,21.5
+Mercury Zephyr 6,19.8
+Ford Fairmont 4,22.3
+AMC Concord DL 6,20.2
+Dodge Aspen 6,20.6
+Chevrolet Caprice Classic,17
+Ford LTD Landau,17.6
+Mercury Grand Marquis,16.5
+Dodge St. Regis,18.2
+Buick Estate Wagon (sw),16.9
+Ford Country Squire (sw),15.5
+Chevrolet Malibu Classic (sw),19.2
+Chrysler Lebaron Town @ Country (sw),18.5
+Volkswagen Rabbit Custom,31.9
+Mazda GLC Deluxe,34.1
+Dodge Colt Hatchback Custom,35.7
+AMC Spirit DL,27.4
+Mercedes Benz 300d,25.4
+Cadillac Eldorado,23
+Peugeot 504,27.2
+Oldsmobile Cutlass Salon Brougham,23.9
+Plymouth Horizon,34.2
+Plymouth Horizon TC3,34.5
+Datsun 210,31.8
+Fiat Strada Custom,37.3
+Buick Skylark Limited,28.4
+Chevrolet Citation,28.8
+Oldsmobile Omega Brougham,26.8
+Pontiac Phoenix,33.5
+Volkswagen Rabbit,41.5
+Toyota Corolla Tercel,38.1
+Chevrolet Chevette,32.1
+Datsun 310,37.2
+Chevrolet Citation,28
+Ford Fairmont,26.4
+AMC Concord,24.3
+Dodge Aspen,19.1
+Audi 4000,34.3
+Toyota Corolla Liftback,29.8
+Mazda 626,31.3
+Datsun 510 Hatchback,37
+Toyota Corolla,32.2
+Mazda GLC,46.6
+Dodge Colt,27.9
+Datsun 210,40.8
+Volkswagen Rabbit C (Diesel),44.3
+Volkswagen Dasher (diesel),43.4
+Audi 5000s (diesel),36.4
+Mercedes-Benz 240d,30
+Honda Civic 1500 gl,44.6
+Renault Lecar Deluxe,40.9
+Subaru DL,33.8
+Volkswagen Rabbit,29.8
+Datsun 280-ZX,32.7
+Mazda RX-7 GS,23.7
+Triumph TR7 Coupe,35
+Ford Mustang Cobra,23.6
+Honda Accord,32.4
+Plymouth Reliant,27.2
+Buick Skylark,26.6
+Dodge Aries Wagon (sw),25.8
+Chevrolet Citation,23.5
+Plymouth Reliant,30
+Toyota Starlet,39.1
+Plymouth Champ,39
+Honda Civic 1300,35.1
+Subaru,32.3
+Datsun 210 MPG,37
+Toyota Tercel,37.7
+Mazda GLC 4,34.1
+Plymouth Horizon 4,34.7
+Ford Escort 4W,34.4
+Ford Escort 2H,29.9
+Volkswagen Jetta,33
+Renault 18i,34.5
+Honda Prelude,33.7
+Toyota Corolla,32.4
+Datsun 200SX,32.9
+Mazda 626,31.6
+Peugeot 505s Turbo Diesel,28.1
+Saab 900s,0
+Volvo Diesel,30.7
+Toyota Cressida,25.4
+Datsun 810 Maxima,24.2
+Buick Century,22.4
+Oldsmobile Cutlass LS,26.6
+Ford Grenada gl,20.2
+Chrysler Lebaron Salon,17.6
+Chevrolet Cavalier,28
+Chevrolet Cavalier Wagon,27
+Chevrolet Cavalier 2-door,34
+Pontiac J2000 SE Hatchback,31
+Dodge Aries SE,29
+Pontiac Phoenix,27
+Ford Fairmont Futura,24
+AMC Concord DL,23
+Volkswagen Rabbit l,36
+Mazda GLC Custom l,37
+Mazda GLC Custom,31
+Plymouth Horizon Miser,38
+Mercury Lynx l,36
+Nissan Stanza XE,36
+Honda Accord,36
+Toyota Corolla,34
+Honda Civic,38
+Honda Civic (auto),32
+Datsun 310 GX,38
+Buick Century Limited,25
+Oldsmobile Cutlass Ciera (diesel),38
+Chrysler Lebaron Medallion,26
+Ford Grenada l,22
+Toyota Celica GT,32
+Dodge Charger 2.2,36
+Chevrolet Camaro,27
+Ford Mustang GL,27
+Volkswagen Pickup,44
+Dodge Rampage,32
+Ford Ranger,28
+Chevy S-10,31
